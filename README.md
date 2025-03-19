@@ -1,10 +1,23 @@
-- 👋 Hi, I’m Gabriel
-- 👀 I’m interested in Games and Tech
-- 🌱 I’m currently learning Front-end (HTML, CSS, JS) and Back-end (Python)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm also an English Teacher
+## 👋 Oiii! Sou o **Gabriel**
 
-<!---
-gabriel-st-dev/gabriel-st-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 **Estudante Tech** | 👨‍🏫 **English Teacher**  
+
+---
+
+### 🚀 Sobre mim
+- 👀 Apaixonado por **Tecnologia e Jogos**
+- 🌱 Aprendendo **Front-end (HTML, CSS, JS) & Back-end (Python)**
+- 💻 Futuro **Full-Stack Developer | AI Expert**
+- 📚 Louco por Livros & 🎬 Filmes 
+- 😄 Pronomes: **Ele/Dele**
+
+---
+
+### 💻 Tech Stack
+- 🔹 **Front-end:** HTML | CSS | JavaScript
+- 🔹 **Back-end:** Python
+- 🔹 **Explorando:** Frameworks Javascript & Inteligência Artificial
+
+---
+
+> "Code, play, teach, repeat. 🎮💻📖"
